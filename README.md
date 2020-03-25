@@ -1,4 +1,6 @@
 # huffman-zip
 A huffman tree zip.
 
-@zip.exe
+#zip.exe
+
+#unzip.exe
