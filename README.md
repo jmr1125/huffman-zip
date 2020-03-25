@@ -5,5 +5,6 @@ A huffman tree zip.
 
 only input the file that was you want to zip.
 the zip file is *.hzip
+
 #unzip.exe
-*h*
+_h_
