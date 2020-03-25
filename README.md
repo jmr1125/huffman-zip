@@ -7,4 +7,4 @@ only input the file that was you want to zip.
 the zip file is *.hzip
 
 #unzip.exe
-_h_
+only input the file that is .hzip;
